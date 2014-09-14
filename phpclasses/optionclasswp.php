@@ -1,4 +1,9 @@
 <?php
+/*
+ * This is a simple class that adds text fields to your Settings->General Wordpress dashboard page. 
+ * 
+ */
+
 $initiatenewoptions = new new_general_settings();
 class new_general_settings {
 	function new_general_settings( ) {
